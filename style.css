@@ -28,3 +28,8 @@ header {
     text-decoration-color: black;
     text-size-adjust: 123%;
   }
+section {
+  background: white;
+  border-radius: 3px;
+  box-shadow: #333 0 0.1rem 1rem;
+}
