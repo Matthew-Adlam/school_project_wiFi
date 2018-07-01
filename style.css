@@ -22,6 +22,7 @@ header {
   header h1{
       padding-top:100px;
       margin:0;
+      text-align:centre;
   }
   p {
     font-family: "arial", cursive, sans-serif;
