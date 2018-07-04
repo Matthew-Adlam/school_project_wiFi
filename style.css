@@ -17,7 +17,7 @@ header {
   }
   body {
       padding: 0;
-      border: 0;
+      border: 100;
   }
   header h1{
       padding-top:100px;
